@@ -1,4 +1,4 @@
-module github.com/mail-ru-im/bot-golang
+module github.com/Jhonbeaver/goicqbot
 
 go 1.13
 
